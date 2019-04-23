@@ -62,6 +62,6 @@ At BASIS ID, there is a culture of accountability and responsibility. Regular up
 
 Meanwhile, BASIS ID is more than a RegTech company. We are trust builders on a mission to build trust in the financial services industry. And we welcome any company who wants to be part of that mission.
 
-_All findings and statistics shared in this article are from Edelman. Please click [here] (http://cms.edelman.com/sites/default/files/2018-03/Edelman_Trust_Barometer_Financial_Services_2018.pdf) to see Edelman’s full results on trust in the financial services industry. Alternatively, you can check out Edelman’s report at its [website] (https://www.edelman.com/research/trust-in-financial-services-2018).
+_All findings and statistics shared in this article are from Edelman. Please click [here](http://cms.edelman.com/sites/default/files/2018-03/Edelman_Trust_Barometer_Financial_Services_2018.pdf) to see Edelman’s full results on trust in the financial services industry. Alternatively, you can check out Edelman’s report at its [website](https://www.edelman.com/research/trust-in-financial-services-2018).
 
 _Cover picture was taken by one of the F10 staff at F10’s launch event in Zurich._
