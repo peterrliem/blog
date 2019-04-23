@@ -1,6 +1,6 @@
 # :open_hands: 
-Trust in the Financial Services Industry
-_I usually blog on Education and FinTech topics. Follow me at [@peterrliem @ Medium] (https://medium.com/@peterrliem)_
+# Trust in the Financial Services Industry
+_I usually blog on Education and FinTech topics. Follow me at [@peterrliem @ Medium](https://medium.com/@peterrliem)_
 
 Picture
 
