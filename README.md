@@ -24,7 +24,6 @@ Trust is not just about reputation. Its impact on the companies’ sales prospec
 It would be foolish to dismiss Edelman’s findings on how trust affects your company’s financial performance. Look at Facebook. It had lost $50 billion in market cap within two days. Of course, given Facebook’s progress in technology, it can recover the value lost, but that is another story. But what about other companies? Can they really afford to lose that much?
 
 Edelman identifies the top 2 factors that increased trust in financial services: in order; easily understood Terms and Conditions and reliable Fraud Protection.
-
 ![](1_MkHneqLEv9mt0YMYg5anaQ.jpeg)
 
 ### Easily Understood Terms and Conditions (T&C)
