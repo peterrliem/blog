@@ -2,7 +2,7 @@
 # Trust in the Financial Services Industry
 _I usually blog on Education and FinTech topics. Follow me at [@peterrliem @ Medium](https://medium.com/@peterrliem)_
 
-Picture
+![](20180305_f10_grand_opening_2018_0146.jpg)
 
 It’s mid-January. Not an ordinary workday for me — it was my first day of work at BASIS ID. My first day consists of receiving instructions from my supervisor, Arseniy, who had flown off to Europe the day before and lunch with my boss, Akim, who was set to fly off in a week’s time.
 
@@ -12,20 +12,20 @@ The promises of the digital era seem to be overshadowed by cases of theft. We ma
 
 This is a true phenomenon. In March, Edelman had released its trust barometers. It reveals that, for the first time in 5 years, trust in financial services had declined. Out of the 28 markets, 11 of them were in the “distrusted” category. 13 of the 28 markets also saw trust in financial services decline.
 
-Picture
-Picture
+![](1_uWWZ6dmqQvPME9FRh5_Pqg.png)
+![](0_kT0yxT6Ujjgclz6u.png)
 
 It gets worse for financial services. Double-digit declines were highlighted in six markets, in particular, France, Hong Kong, U.S. and UAE — financial industries in these countries were known to be one of their niches!
 
 Trust is not just about reputation. Its impact on the companies’ sales prospects is remarkable — in fact, trust has a bigger effect on the companies’ sales prospects than on their reputation. According to Edelman, 41% of their respondents had chosen to use a company’s products and services when they trust a financial services company. Meanwhile, 31% of the respondents had either reviewed the companies positively or shared a positive opinion of them online. This shows how essential trust is to the companies’ sales prospects and reputation.
 
-Picture 
+![](0_erRs3HocV9NpSXAo.png) 
 
 It would be foolish to dismiss Edelman’s findings on how trust affects your company’s financial performance. Look at Facebook. It had lost $50 billion in market cap within two days. Of course, given Facebook’s progress in technology, it can recover the value lost, but that is another story. But what about other companies? Can they really afford to lose that much?
 
 Edelman identifies the top 2 factors that increased trust in financial services: in order; easily understood Terms and Conditions and reliable Fraud Protection.
 
-Picture
+![](1_MkHneqLEv9mt0YMYg5anaQ.jpeg)
 
 ### Easily Understood Terms and Conditions (T&C)
 Senator Kennedy to Mark Zuckerberg during Facebook's congress hearing session on 10th April 2018:
@@ -37,7 +37,7 @@ Financial services companies need to understand and appreciate the fact that cus
 
 The good news, however, is that Personal Data Protection Commissions (PDPC) in many countries are working on building the trust between the people and the companies. They now make it mandatory for T&Cs to be clear and precise, especially with regards to how and for what purposes will the customers’ data will be used. For instance, the General Data Protection Regulations (GDPR) and the Personal Data Protection Act (PDPA) specify the conditions for consent where the request for consent ought to be “intelligible and easily accessible form, using clear and plain language”. This move was intended for the purpose of strengthening the trust between the people and the companies, now that there is little room for companies to escape responsibility.
 
-Picture
+![](0_WWFw8z99ibKCdYEu.png)
 
 ### Reliable Fraud Protection
 
